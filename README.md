@@ -1,0 +1,2 @@
+# proje
+bilgisayarda programlama ödevi
